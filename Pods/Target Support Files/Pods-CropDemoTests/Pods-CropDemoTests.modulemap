@@ -1,0 +1,6 @@
+framework module Pods_CropDemoTests {
+  umbrella header "Pods-CropDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
